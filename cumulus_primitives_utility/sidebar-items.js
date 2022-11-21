@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["ParentAsUmp","Xcm router which recognises the `Parent` destination and handles it by sending the message into the given UMP `UpwardMessageSender` implementation. Thus this essentially adapts an `UpwardMessageSender` trait impl into a `SendXcm` trait impl."]]};
